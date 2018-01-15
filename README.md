@@ -1,4 +1,4 @@
-# vue-svg-draw ![vue](https://img.shields.io/badge/vue-2.*-brightgreen.svg)  ![vivus](https://img.shields.io/badge/dependencies-vivus-yellowgreen.svg)
+# vue-svg-draw ![vue](https://img.shields.io/badge/vue-2.*-brightgreen.svg)  [![vivus](https://img.shields.io/badge/dependencies-vivus-yellowgreen.svg)](http://maxwellito.github.io/vivus/)
  这是一个封装了vivus功能的vue组件。  
  vivus是一款展示svg路径动画的js插件，不需要其它依赖库。
 
@@ -19,6 +19,11 @@ npm install vue-svg-draw --save
 
 ```
 ` <svg-draw file='/src/assets/test.svg' ></svg-draw> ` 
+
+### 相关链接
+[vivus](http://maxwellito.github.io/vivus/) 
+
+[vivus 中文](http://www.jq22.com/jquery-info9266)
 
 ### options 
 | Property | Type | Default | Description | Value |
