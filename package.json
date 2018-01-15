@@ -1,7 +1,7 @@
 {
   "name": "vue-svg-draw",
   "description": "It's a vue component about vivus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/vue-svg-draw.min.js",
   "author": "nbseven <410805964@qq.com>",
   "license": "MIT",
