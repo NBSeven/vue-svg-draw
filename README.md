@@ -25,6 +25,7 @@ npm install vue-svg-draw --save
 
 [vivus 中文](http://www.jq22.com/jquery-info9266)
 
+[svg在线制作](http://editor.method.ac/)
 ### options 
 | Property | Type | Default | Description | Value |
 | --------------------| :----------------: | :-------------:| ----------------------------------------------------- | :------------------------------------------------------: |
