@@ -20,12 +20,6 @@ npm install vue-svg-draw --save
 ```
 ` <svg-draw file='/src/assets/test.svg' ></svg-draw> ` 
 
-### 相关链接
-[vivus](http://maxwellito.github.io/vivus/) 
-
-[vivus 中文](http://www.jq22.com/jquery-info9266)
-
-[svg在线制作](http://editor.method.ac/)
 ### options 
 | Property | Type | Default | Description | Value |
 | --------------------| :----------------: | :-------------:| ----------------------------------------------------- | :------------------------------------------------------: |
@@ -53,3 +47,10 @@ npm install vue-svg-draw --save
 
 ### demo
 ![demo](https://github.com/NBSeven/vue-svg-draw/blob/master/svg-draw.gif)
+
+### 相关链接
+[vivus](http://maxwellito.github.io/vivus/) 
+
+[vivus 中文](http://www.jq22.com/jquery-info9266)
+
+[svg在线制作](http://editor.method.ac/)
