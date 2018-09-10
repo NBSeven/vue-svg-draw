@@ -18,6 +18,8 @@ npm install vue-svg-draw --save
   }
 
 ```
+使用方法
+
 ` <vue-svg-draw file='/svg/2.svg' type="oneByOne" ref="vuesvg" :onReady="ready" pathTiming="EASE_OUT"></vue-svg-draw> `
 ` this.$refs.vuesvg.stop()` 
 
